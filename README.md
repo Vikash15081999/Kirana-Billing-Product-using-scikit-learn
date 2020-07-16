@@ -13,7 +13,7 @@ threading.Timer(1.25, lambda: webbrowser.open("http://localhost:5000/") ).start(
 
 <b>The above two lines of code will help you in opening the webpage on default web browser while you start the flask server(Check the app.py for that lines).</b>
 
-<b>JORC_classifier.joblib.pkl is model file here.</b>
+<b>"JORC_classifier.joblib.pkl" is model file here.</b>
 
 
 <b>Read the Process Explanation.docx which contains the detailed process of this project along with images.</b>
