@@ -1,7 +1,7 @@
 # Kirana-Billing-Product-using-scikit-learn
 <b>Classification of products based on image using ML.</b>
 
-<b>I have added the python code for classification of two Product using Scikit learn Libraries.</b>
+<b>I have added the python code for classification of two Product using Scikit learn Python Libraries.</b>
 
 <b>Import the necessary libraries which have been imported in python code.</b>
 
