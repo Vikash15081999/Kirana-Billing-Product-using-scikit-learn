@@ -1,0 +1,102 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  @media print {
+  body * {
+    visibility: hidden;
+  }
+  #heading, .right * {
+    visibility: visible;
+  }
+
+}
+
+  .btn-primary {
+    background: blueviolet;
+    border:none;
+  }
+
+  body {
+    font-family: 'Trebuchet MS';
+  }
+
+  /* 
+  .container {
+    padding: 20px;
+    position: relative;
+  } */
+
+  #heading {
+    background: blueviolet;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+    letter-spacing: 3px;
+  }
+
+  table {
+    font-size: 15px;
+    
+  }
+  table, tbody {
+    border:1px solid lightgrey;
+  }
+
+  .cover {
+    padding:20px;
+  }
+  /* 
+  .left {
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    text-align: center;
+  }
+
+  .right {
+    position: absolute;
+    width: 40%;
+    left: 50%;
+    height: 100%;
+  } */
+
+  #camera {
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%); */
+    width: 250px;
+    height: 250px;
+    /* border: 5px solid black; */
+  }
+
+  #canvas {
+    border: 4px solid red;
+  }
+
+  #image {
+    border: none;
+    width: 250px;
+    height: 200px;
+  }
+
+
+  #card {
+    font-size: 15px;
+    position: absolute;
+    right:50px;
+    bottom:50px;
+  }
+
+  .card-title {
+    font-size:17px;
+  }
+
+  table,
+  th,
+  td {
+    border: 1px solid black;
+  }
