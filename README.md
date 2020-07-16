@@ -16,5 +16,5 @@ threading.Timer(1.25, lambda: webbrowser.open("http://localhost:5000/") ).start(
 <b>"JORC_classifier.joblib.pkl" is model file here.</b>
 
 
-<b>Read the Process Explanation.docx which contains the detailed process of this project along with images.</b>
+<b>Read the Process Explanation.docx(will be added soon) which contains the detailed process of this project along with images.</b>
 
